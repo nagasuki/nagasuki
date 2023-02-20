@@ -1,6 +1,3 @@
-![DeveloperComputerGIF](https://user-images.githubusercontent.com/32533608/220169546-cd5f9850-35b5-4f05-8814-1f9cf5e8b500.gif) ![ViciadoemcodarGIF](https://user-images.githubusercontent.com/32533608/220170037-0b6998c8-36ef-4ac0-9a16-20b6bc183bb1.gif)
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tiyanon Sahasukee
 =========================================================================================================================================
 
@@ -43,3 +40,5 @@ I'm a Game Developer for 1 year looking for a job
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/nagasuki"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+![DeveloperComputerGIF](https://user-images.githubusercontent.com/32533608/220169546-cd5f9850-35b5-4f05-8814-1f9cf5e8b500.gif) ![ViciadoemcodarGIF](https://user-images.githubusercontent.com/32533608/220170037-0b6998c8-36ef-4ac0-9a16-20b6bc183bb1.gif)
