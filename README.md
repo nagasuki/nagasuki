@@ -1,4 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tiyanon Sahasukee
+![DeveloperComputerGIF](https://user-images.githubusercontent.com/32533608/220169546-cd5f9850-35b5-4f05-8814-1f9cf5e8b500.gif) ![ViciadoemcodarGIF](https://user-images.githubusercontent.com/32533608/220170037-0b6998c8-36ef-4ac0-9a16-20b6bc183bb1.gif)
+
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tiyanon Sahasukee
 =========================================================================================================================================
 
 Game Developer
@@ -33,9 +36,9 @@ I'm a Game Developer for 1 year looking for a job
 
 <a href="http://www.github.com/nagasuki"><img src="https://github-readme-stats.vercel.app/api?username=nagasuki&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="nagasuki's GitHub stats" /></a>
 
-<a href="http://www.github.com/nagasuki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nagasuki&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/nagasuki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nagasuki&hide_border=true&theme=radical" /></a>
 
-<a href="https://github.com/nagasuki" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasuki&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nagasuki" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasuki&langs_count=10&layout=compact&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
