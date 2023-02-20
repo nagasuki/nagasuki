@@ -35,7 +35,7 @@ I'm a Game Developer for 1 year looking for a job
 
 <a href="http://www.github.com/nagasuki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nagasuki&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/nagasuki" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasuki&langs_count=10&layout=compact&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nagasuki" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasuki&langs_count=10&layout=compact&bg-color=#0d0d0d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
