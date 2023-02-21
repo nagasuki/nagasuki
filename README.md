@@ -31,7 +31,7 @@ I'm a Game Developer for 1 year looking for a job
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nagasuki"><img src="https://github-readme-stats.vercel.app/api?username=nagasuki&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=radical&include_all_commits=true" alt="nagasuki's GitHub stats" /></a>
+<a href="http://www.github.com/nagasuki"><img src="https://github-readme-stats.vercel.app/api?username=nagasuki&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="nagasuki's GitHub stats" /></a>
 
 <a href="http://www.github.com/nagasuki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nagasuki&hide_border=true&theme=radical" /></a>
 
