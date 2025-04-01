@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer
 --------------
 
-I'm a Game Developer for 1 year looking for a job
+I'm a Game Developer for 3 year looking for a job
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Nagasuki Port](http://nail462438.wixsite.com/nagasukiport)
